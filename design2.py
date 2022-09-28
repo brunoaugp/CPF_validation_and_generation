@@ -76,7 +76,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "Valida ou Gea CPF"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "Valida ou Gera CPF"))
         self.label_4.setText(_translate("MainWindow", "Validar CPF"))
         self.btnValidaCPF.setText(_translate("MainWindow", "VALIDAR"))
         self.label.setText(_translate("MainWindow", "Gerar CPF"))
